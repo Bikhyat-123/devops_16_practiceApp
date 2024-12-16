@@ -1,0 +1,1 @@
+This is f2 file that I modified in the git repository. Now I want the changes into my local repo.
